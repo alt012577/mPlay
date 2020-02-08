@@ -1,0 +1,204 @@
+{
+	"list":[
+    {
+    	"imgUrl" : "static/images/鞠文娴.jpg",
+    	"url" : "01",
+    	"name" : "BINGBIAN病变",
+    	"author" : "鞠文娴",
+    	"sq" : true,
+    	"alone" : false
+    },
+    {
+    	"imgUrl" : "",
+    	"url" : "02",
+    	"name" : "天下",
+    	"author" : "张杰",
+    	"sq" : true,
+    	"alone" : true
+    },
+    {
+    	"imgUrl" : "",
+    	"url" : "03",
+    	"name" : "Something Just Like This",
+    	"author" : "Various Artists",
+    	"sq" : true,
+    	"alone" : false
+    },
+    {
+    	"imgUrl" : "static/images/鞠文娴.jpg",
+    	"url" : "04",
+    	"name" : "天后",
+    	"author" : "陈势安",
+    	"sq" : true,
+    	"alone" : false
+    },
+    {
+    	"imgUrl" : "static/images/盗将行.jpg",
+    	"url" : "05",
+    	"name" : "盗将行",
+    	"author" : "花粥",
+    	"sq" : true,
+    	"alone" : false
+    },
+    {
+    	"imgUrl" : "static/images/孙燕姿.jpg",
+    	"url" : "06",
+    	"name" : "风衣",
+    	"author" : "孙燕姿",
+    	"sq" : true,
+    	"alone" : false
+    },
+    {
+    	"imgUrl" : "static/images/周杰伦.jpg",
+    	"url" : "07",
+    	"name" : "枫",
+    	"author" : "周杰伦",
+    	"sq" : true,
+    	"alone" : false
+    },
+    {
+    	"imgUrl" : "static/images/周杰伦.jpg",
+    	"url" : "08",
+    	"name" : "告白气球",
+    	"author" : "周杰伦",
+    	"sq" : true,
+    	"alone" : true
+    },
+    {
+    	"imgUrl" : "",
+    	"url" : "09",
+    	"name" : "后来",
+    	"author" : "刘若英",
+    	"sq" : true,
+    	"alone" : true
+    },
+    {
+    	"imgUrl" : "static/images/孙燕姿.jpg",
+    	"url" : "10",
+    	"name" : "极美",
+    	"author" : "孙燕姿",
+    	"sq" : true,
+    	"alone" : true
+    },
+    {
+    	"imgUrl" : "static/images/叶炫清.jpg",
+    	"url" : "11",
+    	"name" : "九张机",
+    	"author" : "叶炫清",
+    	"sq" : true,
+    	"alone" : true
+    },
+    {
+    	"imgUrl" : "static/images/李荣浩.jpg",
+    	"url" : "12",
+    	"name" : "不将就",
+    	"author" : "李荣浩",
+    	"sq" : true,
+    	"alone" : true
+    },
+    {
+    	"imgUrl" : "static/images/李荣浩.jpg",
+    	"url" : "13",
+    	"name" : "李白",
+    	"author" : "李荣浩",
+    	"sq" : true,
+    	"alone" : true
+    },
+    {
+    	"imgUrl" : "static/images/李荣浩.jpg",
+    	"url" : "14",
+    	"name" : "模特",
+    	"author" : "李荣浩",
+    	"sq" : true,
+    	"alone" : true
+    },
+    {
+    	"imgUrl" : "static/images/张惠妹.jpg",
+    	"url" : "15",
+    	"name" : "连名带姓",
+    	"author" : "张惠妹",
+    	"sq" : true,
+    	"alone" : true
+    },
+    {
+    	"imgUrl" : "",
+    	"url" : "16",
+    	"name" : "好心分手",
+    	"author" : "卢巧音/王力宏",
+    	"sq" : true,
+    	"alone" : true
+    },
+    {
+    	"imgUrl" : "static/images/周杰伦.jpg",
+    	"url" : "17",
+    	"name" : "前世情人",
+    	"author" : "周杰伦",
+    	"sq" : true,
+    	"alone" : true
+    },
+    {
+    	"imgUrl" : "static/images/周杰伦.jpg",
+    	"url" : "18",
+    	"name" : "青花瓷",
+    	"author" : "周杰伦",
+    	"sq" : true,
+    	"alone" : true
+    },
+    {
+    	"imgUrl" : "",
+    	"url" : "19",
+    	"name" : "说散就散",
+    	"author" : "JC",
+    	"sq" : true,
+    	"alone" : true
+    },
+    {
+    	"imgUrl" : "",
+    	"url" : "20",
+    	"name" : "往后余生",
+    	"author" : "王贰浪",
+    	"sq" : true,
+    	"alone" : true
+    },
+    {
+    	"imgUrl" : "static/images/薛之谦.jpg",
+    	"url" : "21",
+    	"name" : "绅士",
+    	"author" : "薛之谦",
+    	"sq" : true,
+    	"alone" : true
+    },
+    {
+    	"imgUrl" : "static/images/薛之谦.jpg",
+    	"url" : "22",
+    	"name" : "演员",
+    	"author" : "薛之谦",
+    	"sq" : true,
+    	"alone" : true
+    },
+    {
+    	"imgUrl" : "static/images/张碧晨.jpg",
+    	"url" : "23",
+    	"name" : "凉凉",
+    	"author" : "杨宗纬/张碧晨",
+    	"sq" : true,
+    	"alone" : true
+    },
+    {
+    	"imgUrl" : "",
+    	"url" : "24",
+    	"name" : "原来你也在这里",
+    	"author" : "周笔畅",
+    	"sq" : true,
+    	"alone" : true
+    },
+    {
+    	"imgUrl" : "static/images/追梦赤子心.jpg",
+    	"url" : "25",
+    	"name" : "追梦赤子心",
+    	"author" : "GALA乐队",
+    	"sq" : true,
+    	"alone" : true
+    }
+	]
+}
