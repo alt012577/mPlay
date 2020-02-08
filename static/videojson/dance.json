@@ -1,0 +1,25 @@
+{
+   "list":[
+
+     {
+       "imgUrl": "http://img95.699pic.com//video_cover/38/71/30/r8Vhm0N4tf471512387130.jpg!/fw/820",
+       "videoUrl":"http://video.699pic.com/videos/38/71/64/1s9au17GQjvd1512387164.mp4",
+       "title":"改变世界",
+       "author":"花花",
+       "authorImg": "static/videoauthor/05.jpg",
+       "likeNumber":92,
+       "discussion":189
+     },
+     {
+       "imgUrl": "http://img95.699pic.com//video_cover/88/73/79/IJf8p7NrFj0t1526887379.jpg!/fw/820",
+       "videoUrl":"http://video.699pic.com/videos/88/73/51/gi2h7NXIBVbx1526887351.mp4",
+       "title":"可爱六一儿童节",
+       "author":"小胖",
+       "authorImg": "static/videoauthor/01.jpg",
+       "likeNumber":982,
+       "discussion":19
+     }
+
+    ]
+
+}
